@@ -13,4 +13,10 @@ public class DemoController {
     public String hello() {
         return "hello";
     }
+    // http://localhost:8080/Spring-01-todo-list/welcome
+    @GetMapping("welcome")//tutaj zwraca nazwe mapowania prefix+name+suffix z pliku web-inf .../welcome.jsp
+    public String welcome()
+    {
+        return "welcome"; //welcome zwraca jsp plik
+    }
 }

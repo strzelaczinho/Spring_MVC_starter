@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7f519cb-e259-4098-be43-22b5a3c892e2" name="Default Changelist" comment="" />
+    <list default="true" id="c7f519cb-e259-4098-be43-22b5a3c892e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adam/projekty/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/adam/projekty/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adam/projekty/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/adam/projekty/controller/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring-01-todo-list-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring-01-todo-list-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring-01-todo-list-1.0-SNAPSHOT/WEB-INF/classes/adam/projekty/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring-01-todo-list-1.0-SNAPSHOT/WEB-INF/classes/adam/projekty/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring-01-todo-list-1.0-SNAPSHOT/WEB-INF/classes/adam/projekty/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring-01-todo-list-1.0-SNAPSHOT/WEB-INF/classes/adam/projekty/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/Spring-01-todo-list/WEB-INF/classes/adam/projekty/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/Spring-01-todo-list/WEB-INF/classes/adam/projekty/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/Spring-01-todo-list/WEB-INF/classes/adam/projekty/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/Spring-01-todo-list/WEB-INF/classes/adam/projekty/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adam/projekty/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adam/projekty/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adam/projekty/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adam/projekty/controller/DemoController.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/adam/projekty/controller/DemoController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            <state relative-caret-position="357">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/welcome.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -45,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state>
+              <caret selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -54,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/adam/projekty/config/WebConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="418">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -74,14 +94,18 @@
       <find>/hello</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/adam/projekty/config/WebConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/adam/projekty/config/WellAppInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/adam/projekty/Controller/DemoController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/welcome.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/adam/projekty/config/WebConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/adam/projekty/controller/DemoController.java" />
       </list>
     </option>
@@ -111,6 +135,11 @@
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
           <item name="cargo" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Spring-01-todo-list" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -121,6 +150,7 @@
     <option name="width" value="1550" />
     <option name="height" value="1108" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -177,6 +207,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="adam" type="462c0819:PsiDirectoryNode" />
               <item name="projekty" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-01-todo-list" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-01-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adam" type="462c0819:PsiDirectoryNode" />
+              <item name="projekty" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -185,6 +225,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-01-todo-list" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-01-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-01-todo-list" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-01-todo-list" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,7 +253,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547824931447" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547827441347" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Tests/todolist" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -263,12 +320,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547818586960</updated>
-      <workItem from="1547818590559" duration="4507000" />
+      <workItem from="1547818590559" duration="6507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4507000" />
+    <option name="totallyTimeSpent" value="6507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -335,22 +392,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state>
+          <caret selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/adam/projekty/config/WebConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="418">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/adam/projekty/controller/DemoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
