@@ -1,3 +1,14 @@
+adam\projekty\model\TodoData.class
 adam\projekty\controller\DemoController.class
-adam\projekty\config\WellAppInitializer.class
+adam\projekty\Service\TodoItemService.class
+adam\projekty\config\WebAppInitializer.class
+adam\projekty\model\TodoItem.class
+adam\projekty\controller\TodoItemController.class
+adam\projekty\util\Mappings.class
+adam\projekty\Service\ServiceImplementacja.class
+adam\projekty\Service\TodoItemServiceImplementacja.class
+adam\projekty\Service\DemoService.class
+adam\projekty\util\ViewNames.class
+adam\projekty\controller\ChallengeController.class
 adam\projekty\config\WebConfig.class
+adam\projekty\util\AttributeNames.class
